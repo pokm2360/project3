@@ -4,11 +4,11 @@ public class qiiz2 {
 
 	public static void main(String[] args) {
 		
-		int x = 10; // 10
+		int x = 10; // 11
 		
-		int y = 20; // 20
+		int y = 20; // 19
 		 
-		int result = (x++) + (--y); // 
+		int result = (x++) + (--y); // 29
 
 		System.out.println(x);
 		System.out.println(y);
